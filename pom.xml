@@ -34,7 +34,7 @@
 					<driver>org.postgresql.Driver</driver>
 					<url>jdbc:postgresql://localhost:5432/liquibase</url>
 					<username>postgres</username>
-					<password>angra201294</password>
+					<password>xxxxxx</password>
 					<propertyFileWillOverride>true</propertyFileWillOverride>
 				</configuration>
 				<executions>
